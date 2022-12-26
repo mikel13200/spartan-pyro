@@ -1,4 +1,4 @@
-<div align='center'><img src='[https://user-images.githubusercontent.com/65407488/147992899-93998c0a-75fb-4055-8c06-8da8c49342d6.png](https://cdn.discordapp.com/attachments/1055143729582837825/1056920819198066728/New_Project.png)'/></div>
+<div align='center'><img src='https://cdn.discordapp.com/attachments/1055143729582837825/1056920819198066728/New_Project.png'/></div>
 <div align='center'><h3>spartan-pyro</h3></div>
 
 # Installation
