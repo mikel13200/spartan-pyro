@@ -7,6 +7,21 @@
 ensure spartan-pyro
 ```
 
+Add this to you ox-inventory/data/items.lua:
+
+```
+	['tp2'] = {
+		label = 'TP2',
+		weight = 75,
+	},
+
+	['c6'] = {
+		label = 'Cobra 6',
+		weight = 75,
+	},
+```
+
+
 # Fireworks
 
 ### FireCrackers
